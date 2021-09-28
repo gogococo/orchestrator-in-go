@@ -1,7 +1,7 @@
 # orchestrator-in-go
 Repository for working through [Build An Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
 
-## 
+## Details
 * Go Version: 1.17
 
 
